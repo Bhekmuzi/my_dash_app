@@ -1,0 +1,6 @@
+dash
+dash-bootstrap-components
+pymongo
+python-dotenv
+plotly
+pandas
